@@ -1,0 +1,8 @@
+https://www.jcchouinard.com/add-a-file-to-github-with-git-bash/
+https://stackoverflow.com/questions/23401652/fatal-the-current-branch-master-has-no-upstream-branch
+https://stackoverflow.com/questions/13509293/git-fatal-could-not-read-from-remote-repository
+https://stackoverflow.com/questions/57734669/gitgithub-com-permission-denied-publickey
+https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote
+https://stackoverflow.com/questions/40036648/git-fatal-refusing-to-merge-unrelated-histories#40037123
+https://saywebsolutions.com/blog/git-github-error-fatal-couldnt-find-remote-ref-master
+https://docs.google.com/spreadsheets/d/1dnRF2KgXKAdhSwLAKXepGmNE4xsNC6VqJE7Ge1vw2vQ/edit?usp=sharing
